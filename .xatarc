@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Kona-Shankar-Aditya-s-workspace-gnngs1.ap-southeast-2.xata.sh/db/shan_recsy",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
